@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-Stone-and-Soul/",
+    "build": "vite build --base=/Stone-and-Soul/",
     "preview": "vite preview"
   },
   "devDependencies": {
